@@ -3,7 +3,7 @@
 
 ### Technical
 - [ ] What are the 3 main problems that you have right now? And what are you doing to reduce or fix them?
-> :warning: if they need to improve the speed
+> :warning: if they need to improve the speed of release or creation of functionalities
 - [ ] Are you doing testing?
 > :triangular_flag_on_post: if they don't have any test in their product. Not need to have 100% coverage but the core should have
 - [ ] What´s the current architecture of the project? 
